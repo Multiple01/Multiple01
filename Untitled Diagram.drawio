@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-17T09:30:28.660Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:126.0) Gecko/20100101 Firefox/126.0" etag="uAM4IAZDmNz86qq3ZBsk" version="24.4.3" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-17T09:37:41.439Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:126.0) Gecko/20100101 Firefox/126.0" etag="A84Flihl8dfrBJ2aa6nC" version="24.4.3" type="github">
   <diagram name="Page-1" id="JOWfkH6MdnwbE2q_Opq3">
     <mxGraphModel dx="948" dy="538" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -17,6 +17,44 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="380" y="120" as="sourcePoint" />
             <mxPoint x="430" y="70" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bXPYc0cqTdXgkaKzH3wF-10" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="288" y="160" as="sourcePoint" />
+            <mxPoint x="288" y="200" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bXPYc0cqTdXgkaKzH3wF-11" value="¿Afecta la actuación de manera potencial a diferentes grupos de personas? " style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="198" y="202" width="180" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="bXPYc0cqTdXgkaKzH3wF-12" value="SI" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="290" y="170" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="bXPYc0cqTdXgkaKzH3wF-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="bXPYc0cqTdXgkaKzH3wF-14">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="570" y="160" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bXPYc0cqTdXgkaKzH3wF-14" value="Se requieren evidencias " style="rounded=0;whiteSpace=wrap;html=1;shadow=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="202" width="180" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="bXPYc0cqTdXgkaKzH3wF-15" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="380" y="242.5" as="sourcePoint" />
+            <mxPoint x="480" y="241.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bXPYc0cqTdXgkaKzH3wF-16" value="NO" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="400" y="210" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="bXPYc0cqTdXgkaKzH3wF-17" value="SI" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="590" y="170" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="bXPYc0cqTdXgkaKzH3wF-18" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="310" as="sourcePoint" />
+            <mxPoint x="450" y="260" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
